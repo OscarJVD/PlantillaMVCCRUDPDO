@@ -1,0 +1,21 @@
+<?php 
+
+class Conexion{
+
+public function conectar(){
+
+	$conexion = new PDO("mysql:host=localhost;dbname=solupelis","root","");
+
+	return $conexion;
+
+}
+
+
+
+}
+
+
+
+
+
+ ?>

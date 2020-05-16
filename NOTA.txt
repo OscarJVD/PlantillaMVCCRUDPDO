@@ -1,0 +1,2 @@
+Lo hize con PDO y MVC
+pero a mi manera
